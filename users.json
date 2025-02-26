@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@admin.com",
+    "password": "$2a$12$w8QeoUxPWpVq7PZORD7wN.8a78BHhcThFxVL4N8a7XoUjH7271hKu",
+    "role": "admin",
+    "tokenVersion": 2
+  },
+  {
+    "id": 2,
+    "username": "user",
+    "email": "user@user.com",
+    "password": "$2a$12$uuRSiJeGzf09Aruv30E09ODe.aodyJ7cM.I6.gnSlTacUfJWJ.ugC",
+    "role": "user",
+    "tokenVersion": 0
+  },
+  {
+    "id": 3,
+    "username": "krishnendu",
+    "email": "krishnendu@capitalnumbers.com",
+    "password": "$2a$12$m/.l2D1Q76B5w0Y86.h/TeQ6e/vZavTeYLCFbhqoIL7VJ62L/9xUK",
+    "role": "user",
+    "tokenVersion": 0
+  }
+]

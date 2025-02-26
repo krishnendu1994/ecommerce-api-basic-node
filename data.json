@@ -1,0 +1,102 @@
+[
+  {
+    "id": 4,
+    "name": "Tablet",
+    "price": "50.50",
+    "category": "medicine",
+    "imageUrl": "/uploads/1738663342478.jpeg",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-04T10:02:22.490Z",
+    "updatedAt": "2025-02-04T10:02:22.490Z"
+  },
+  {
+    "id": 5,
+    "name": "Britaniya busicut",
+    "price": "44.50",
+    "category": "snacks",
+    "imageUrl": "/uploads/1738739210595.jpg",
+    "stockQuantity": "101",
+    "createdAt": "2025-02-04T10:03:33.540Z",
+    "updatedAt": "2025-02-05T07:06:50.600Z"
+  },
+  {
+    "id": 8,
+    "name": "norflox tz",
+    "price": "90.50",
+    "category": "medicine",
+    "imageUrl": "/uploads/1738665888799.jpg",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-04T10:44:48.803Z",
+    "updatedAt": "2025-02-04T10:44:48.803Z"
+  },
+  {
+    "id": 9,
+    "name": "Eno",
+    "price": "10.50",
+    "category": "medicine",
+    "imageUrl": "/uploads/1738665905785.jpg",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-04T10:45:05.789Z",
+    "updatedAt": "2025-02-04T10:45:05.789Z"
+  },
+  {
+    "id": 10,
+    "name": "Move gell",
+    "price": "10.50",
+    "category": "medicine",
+    "imageUrl": "/uploads/1738670741420.png",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-04T12:05:41.433Z",
+    "updatedAt": "2025-02-04T12:05:41.433Z"
+  },
+  {
+    "id": 11,
+    "name": "Maxo",
+    "price": "200.20",
+    "category": "mosquoto kill spray",
+    "imageUrl": "/uploads/1738687449992.jpg",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-04T16:44:10.004Z",
+    "updatedAt": "2025-02-04T16:44:10.004Z"
+  },
+  {
+    "id": 12,
+    "name": "Maxo",
+    "price": "200.20",
+    "category": "mosquoto kill spray",
+    "imageUrl": "/uploads/1738738596446.jpg",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-05T06:56:36.488Z",
+    "updatedAt": "2025-02-05T06:56:36.488Z"
+  },
+  {
+    "id": 13,
+    "name": "Maxo",
+    "price": "200.20",
+    "category": "mosquoto kill spray",
+    "imageUrl": "/uploads/1738739182372.png",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-05T07:06:22.385Z",
+    "updatedAt": "2025-02-05T07:06:22.385Z"
+  },
+  {
+    "id": 14,
+    "name": "Maxo",
+    "price": "200.20",
+    "category": "mosquoto kill spray",
+    "imageUrl": "/uploads/1738749268274.png",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-05T09:54:28.280Z",
+    "updatedAt": "2025-02-05T09:54:28.280Z"
+  },
+  {
+    "id": 15,
+    "name": "Maxo",
+    "price": "200.20",
+    "category": "mosquoto kill spray",
+    "imageUrl": "/uploads/1738749975058.png",
+    "stockQuantity": "100",
+    "createdAt": "2025-02-05T10:06:15.076Z",
+    "updatedAt": "2025-02-05T10:06:15.076Z"
+  }
+]
